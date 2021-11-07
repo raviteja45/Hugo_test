@@ -1,4 +1,4 @@
 baseURL = 'https://raviteja45.github.io/Hugo_test/'
 languageCode = 'en-us'
 title = 'Test Home page...'
-theme= 'hyde'
+theme= 'hugo-PaperMod'
